@@ -1,0 +1,19 @@
+Data Analytics
+Posted 5 days ago
+About us: We are an automotive technology startup looking to create a real-time vehicle pricing engine to predict a vehicles wholesale value based on the entries of its Year, Make, Model, Trim, Engine Size, and Mileage.  
+
+Basically, a customer will enter their vehicle parameters on our website and ping our database to return a value.
+
+We need someone well-versed (preferably in automotive preferred) in creating a linear/multi-regression model from a large data set which we can provide.  Basically, we know how it should work and the initial blueprint, but need the "brain" to establish the model.
+
+Who we are looking for -
+
+- Experience with these models, preferably automotive.
+- Looking for someone that can TEACH US what we dont know and how it can be done in a clear manner.
+- Experience with R or similar platforms
+- Experience with databases and SQL.Aurora.  Might need this person for uploading and tweaks to the model.  Possibly a partner.
+
+******IMPORTANT: Other than the questions on the posting, can you provide a ROUGH estimate (just for better understanding) of:
+
+- Approx. time to complete
+- Cost

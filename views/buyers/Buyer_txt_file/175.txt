@@ -1,0 +1,11 @@
+I need help in creating a simple client registration form using Laravel.
+
+The user will have to login first and the forgot password feature should be working.
+
+The client registration page layout will be provided.
+
+The completed program will then be uploaded to my cpanel for final review
+
+Skills: Laravel, PHP, HTML, MySQL
+
+See more: online registration form using php, registration form using paypal, create registration form using mysql, create registration form using php jquery, can develop registration form using, registration form using mysql, registration form using database, create registration form using joomla, registration form using database php, create registration form using php, create joomla registration form using chronoforms, validate registration form using javascript, registration form using php paypal, joomla add fields registration form using, joomla registration form using community builder, creating registration form using joomla, registration form using joomla, registration form using, registration form using php mysql, registration form using jsp mysql

@@ -1,0 +1,9 @@
+It is a donation and volunteer website. There will be 3 roles in this website - admin, organisation, and volunteer.
+
+The registration form will be different for organisation and volunteer. They have different fields.
+
+The admin can simply login without registering. Also, admin can verify the organisation if it is valid or not by looking at the organisation Register of Society no, if it starts with BDP. The admin can register another admin, by a simple registration i.e email/username, password.
+
+The organisation can register as organisation on the website and login. It also can CRUD events for the volunteering or donation. Also, creating attendance list from list of participating volunteers.
+
+The volunteer can register on the website and login. They can view the list of events posted by other organisations. They can also participate if it is a volunteering events posted by the organisation. Else, if it is a donation event, they can only view. Once the volunteer participate, it will create a reminder to remind them on the upcoming event that their volunteering.
