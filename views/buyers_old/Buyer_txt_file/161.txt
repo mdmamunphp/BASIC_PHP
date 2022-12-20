@@ -1,0 +1,22 @@
+Mobile App Development
+Posted 1 day ago
+Hello Freelancers!
+
+UniRoomy is a student accommodation search & review platform (mobile & web application). There is further information supplied in a press release attached to this Job.
+
+->- DELIVERABLES -<-
+- Use of Flutter to create a cross-platform fully-functional mobile application (iOS & Android).
+- This has already been started (UX/UI is implemented).
+- Implementation of the Backend API that is being developed in GraphQL and has both API documentation and a back-end developer contact for any questions.
+- Testing and refining and submitting to app stores for production release in January.
+
+Note: There MAY be small edits required to the current UI based on implementing back-end.
+
+->- DEADLINE -<-
+5th January for the first working version.
+9th January for a finalised version (tested, working & stable) to be submitted to the app
+stores.
+
+NO AGENCIES PLEASE!
+
+Thanks!

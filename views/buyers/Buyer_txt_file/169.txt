@@ -1,0 +1,3 @@
+Hi
+
+Need someone to design and develop a static website in php. The front end design of the website is ready in Adobe Illustrator. Just need to convert the same into a single page bootstrap responsive framework. Timeline is 2 days. Need experience developer only.
